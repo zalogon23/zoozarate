@@ -43,6 +43,7 @@ header {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
   background: linear-gradient(to bottom, #b84, #000);
 }
 
